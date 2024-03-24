@@ -1,0 +1,8 @@
+{
+  "name": "blockchain-example-app",
+  "version": "1.0.0",
+  "description": "An example application demonstrating how to build smart contracts on the blockchain.",
+  "dependencies": {
+    "decentralized-dapp-kit": "1.0.0"
+  }
+}
