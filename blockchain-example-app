@@ -5,9 +5,7 @@
   "dependencies": {
     "decentralized-dapp-kit": "1.0.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dxxn112/blockchain-example-app.git"
+"repository": {
+"type": "git",
+"url": "https://github.com/dxxn112/blockchain-example-app"
   }
-}
-
